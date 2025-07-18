@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 langchain = {extras = ["google-genai"], version = "*"}
 ipykernel = "*"
+langchain-core = "*"
+langgraph = "*"
 
 [dev-packages]
 
